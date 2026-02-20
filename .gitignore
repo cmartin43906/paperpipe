@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+.env
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Project data (optional: keep local only)
+data/paper_index.db
+data/library/
+data/notes/
+inbox/
+
+# Logs
+*.log
